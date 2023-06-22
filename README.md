@@ -1,2 +1,2 @@
 # BLOG
-Blog about nanotechnology with AI in the field of medicine
+ i had written blog about nanotechnology with AI in the field of medicine 
